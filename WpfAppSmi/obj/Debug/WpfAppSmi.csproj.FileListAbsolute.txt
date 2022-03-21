@@ -1,0 +1,8 @@
+C:\Users\инет\source\repos\WpfAppSmi\WpfAppSmi\obj\Debug\WpfAppSmi.csproj.AssemblyReference.cache
+C:\Users\инет\source\repos\WpfAppSmi\WpfAppSmi\obj\Debug\MainWindow.g.cs
+C:\Users\инет\source\repos\WpfAppSmi\WpfAppSmi\obj\Debug\Page1.g.cs
+C:\Users\инет\source\repos\WpfAppSmi\WpfAppSmi\obj\Debug\Page2.g.cs
+C:\Users\инет\source\repos\WpfAppSmi\WpfAppSmi\obj\Debug\Page\Page2.g.cs
+C:\Users\инет\source\repos\WpfAppSmi\WpfAppSmi\obj\Debug\App.g.cs
+C:\Users\инет\source\repos\WpfAppSmi\WpfAppSmi\obj\Debug\WpfAppSmi_MarkupCompile.cache
+C:\Users\инет\source\repos\WpfAppSmi\WpfAppSmi\obj\Debug\WpfAppSmi_MarkupCompile.lref
